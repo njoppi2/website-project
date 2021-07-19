@@ -1,25 +1,14 @@
 import logo from './rocket.png';
 import './App.css';
+import Navigation from './Components/Navigation';
+import Main from './Components/Main';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+
+const App = () => (
+  <div className='app'>
+    <Navigation />
+    <Main />
+  </div>
+);
 
 export default App;
