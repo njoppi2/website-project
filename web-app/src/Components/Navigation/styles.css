@@ -1,0 +1,36 @@
+.Navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 50px;
+    background-color: #333333;
+    color: aliceblue;
+  }
+
+.Navbar-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    flex: 1 0 auto
+}
+
+.Navbar-logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    flex: 1 0 auto;
+    align-items: center;
+}
+
+.Navbar-link {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    flex: 1 0 auto;
+}
+
+.Navbar-link * {
+    list-style-type: none;
+    text-decoration: none;
+    color: aliceblue;
+}
