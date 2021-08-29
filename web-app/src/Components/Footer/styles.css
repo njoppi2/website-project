@@ -15,7 +15,6 @@
 }
 
 #footer-bottom {
-    height: 150 px;
     background-color: white;
 }
 ul {
@@ -35,7 +34,6 @@ h4 {
 
 .payment-icons {
     height: 50px;
-    margin:16px 0;
     padding:0 5px;
 }
 
@@ -43,4 +41,12 @@ h4 {
     padding: 5px 0;
     margin:0;
     background-color: lightgrey;
+}
+
+#payment-container {
+    margin:12px 0;
+}
+
+@media only screen and (max-device-width: 768px) {
+    /* Styles */
 }
