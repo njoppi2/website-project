@@ -47,6 +47,12 @@ h4 {
     margin:12px 0;
 }
 
-@media only screen and (max-device-width: 768px) {
-    /* Styles */
+@media only screen and (max-device-width: 530px) {
+    li {
+        width: 85%;
+    }
+    .payment-icons {
+        height: 45px;
+        padding:0 5px;
+    }
 }
