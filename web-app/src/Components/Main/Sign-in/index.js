@@ -13,9 +13,9 @@ const SignIn = () => (
         Senha
         <input class='login-input' type='password'></input>
       </div>
-      <div class='login-entry'>
+      <button class='login-entry'>
         Entrar
-      </div>
+      </button>
     </div>
   </div>
   );

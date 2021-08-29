@@ -31,5 +31,17 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-top: 15px
+    margin-top: 15px;
+	border: none;
+	padding: 0;
+	font: inherit;
+}
+
+.login-entry:hover {
+    cursor: pointer;
+    background-color: #222;
+}
+
+.login-entry:active {
+    background-color: #111;
 }
