@@ -2,7 +2,7 @@ import './styles.css';
 import { NavLink } from 'react-router-dom';
 
 const SignUp = () => (
-  <div className='about'>
+  <div className='sign-up'>
     <h1>About Me</h1>
     <p>Ipsum dolor dolorem consectetur est velit fugiat. Dolorem provident corporis fuga saepe distinctio ipsam? Et quos harum excepturi dolorum molestias?</p>
     <p>Ipsum dolor dolorem consectetur est velit fugiat. Dolorem provident corporis fuga saepe distinctio ipsam? Et quos harum excepturi dolorum molestias?</p>
