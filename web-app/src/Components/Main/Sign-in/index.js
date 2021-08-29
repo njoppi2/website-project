@@ -3,8 +3,20 @@ import { NavLink } from 'react-router-dom';
 
 const SignIn = () => (
   <div className='main sign-in'>
-    <h1>Contact Me</h1>
-    <p>You can reach me via email: <strong>hello@example.com</strong></p>
+    <div class='login-floating-card'>
+      LOGIN
+      <div class='login-subline'>
+        Email ou senha de usuário
+        <input class='login-input' placeholder='usuario@gmail.com'></input>
+      </div>
+      <div class='login-subline'>
+        Senha
+        <input class='login-input' type='password'></input>
+      </div>
+      <div class='login-entry'>
+        Entrar
+      </div>
+    </div>
   </div>
   );
 
