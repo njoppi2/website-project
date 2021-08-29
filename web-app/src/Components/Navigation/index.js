@@ -5,9 +5,9 @@ const Navigation = () => (
     <nav className='Navbar'>
       <div class='Navbar-logo'>Space Travel</div>
       <ul class='Navbar-links'>
-        <li class='Navbar-link'><NavLink to='/'>Home</NavLink></li>
-        <li class='Navbar-link'><NavLink to='/sign-in'>Sign-in</NavLink></li>
-        <li class='Navbar-link'><NavLink to='/sign-up'>Sign-up</NavLink></li>
+        <li class='Navbar-link'><NavLink to='/'>Início</NavLink></li>
+        <li class='Navbar-link'><NavLink to='/sign-in'>Login</NavLink></li>
+        <li class='Navbar-link'><NavLink to='/sign-up'>Cadastro</NavLink></li>
       </ul>
     </nav>
   );

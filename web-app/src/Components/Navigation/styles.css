@@ -1,17 +1,22 @@
 .Navbar {
+    position: sticky;
+    top: 0;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     padding: 0 50px;
     background-color: #333333;
     color: aliceblue;
+    height: 50px;
+    margin: 0;
   }
 
 .Navbar-links {
     display: flex;
     flex-direction: row;
-    justify-content: left;
-    flex: 1 0 auto
+    justify-content: center;
+    flex: 1 0 auto;
+
 }
 
 .Navbar-logo {
@@ -25,7 +30,8 @@
 .Navbar-link {
     display: flex;
     flex-direction: row;
-    justify-content: left;
+    justify-content: center;
+    align-items: stretch;
     flex: 1 0 auto;
 }
 

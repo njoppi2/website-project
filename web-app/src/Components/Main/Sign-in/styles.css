@@ -3,7 +3,7 @@
     background-position: center;
 }
 
-.login-floating-card {
+.form-floating-card {
     width: 500px;
     margin: 100px auto;
     background-color: #ffffff;
@@ -11,18 +11,25 @@
     text-align: left;
 }
 
-.login-subline {
+.form-subline {
     display: flex;
     flex-direction: column;
-    padding-top: 15px;
 }
 
-.login-input {
-    width: calc(100% -10px);
+.form-input {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    flex: 1 0 auto;
     padding: 10px;
+    margin-bottom: 10px;
 }
 
-.login-entry {
+.form-input:not(:first-of-type) {
+    margin-left: 10px;
+}
+
+.form-entry {
     width: calc(100% - 0px);
     height: 40px;
     color: #fff;
@@ -37,11 +44,17 @@
 	font: inherit;
 }
 
-.login-entry:hover {
+.form-entry:hover {
     cursor: pointer;
     background-color: #222;
 }
 
-.login-entry:active {
+.form-entry:active {
     background-color: #111;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
 }
