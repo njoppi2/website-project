@@ -27,10 +27,12 @@ const Footer = () => (
           </li>
           <li>
             <h4>ACEITAMOS</h4>
-            <img class="payment-icons" alt="Visa logo" src={visaLogo}></img>       
-            <img class="payment-icons" alt="American Express logo" src={americanExpressLogo}></img>     
-            <img class="payment-icons" alt="MasterCard logo" src={masterCardLogo}></img>
-            <img class="payment-icons" alt="Pix logo" src={pixLogo}></img>
+            <div id="payment-container">
+              <img class="payment-icons" alt="Visa logo" src={visaLogo}></img>       
+              <img class="payment-icons" alt="American Express logo" src={americanExpressLogo}></img>     
+              <img class="payment-icons" alt="MasterCard logo" src={masterCardLogo}></img>
+              <img class="payment-icons" alt="Pix logo" src={pixLogo}></img>
+            </div>
           </li>
         </ul>
         <p id="copyright-text">© 2023 by spaceX</p>
