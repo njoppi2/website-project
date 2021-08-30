@@ -1,3 +1,12 @@
+# websiteProject
+A website project
+
+# how to run 
+Enter the folder: "web-app"
+run:
+    npm install
+    npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
