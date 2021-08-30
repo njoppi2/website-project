@@ -25,7 +25,7 @@ const Navigation = () => {
           toggleMenu(!isMenuOpen);
         }}/>
         <NavLinks />
-        <div className={`navbar-links-mobile-container ${isMenuOpen ? 'margin0' : ''}`}>
+        <div className={`navbar-links-mobile-container ${isMenuOpen ? 'show' : ''}`}>
           <NavLinks />
         </div>
       </nav>

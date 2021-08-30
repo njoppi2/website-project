@@ -47,14 +47,13 @@
 
 .navbar-links-mobile-container {
     display: none;
-    margin-right: -200px;
+    opacity: 0;
     background-color: #f4f4f4;
     width: 200px;
     position: absolute;
     top: 50px;
     right: 0;
-    transition: margin 700ms;
-    z-index: -9;
+    transition: opacity 400ms;
 }
 
 @media only screen and (max-device-width: 768px) {
@@ -76,8 +75,8 @@
         display: flex;
     }
 
-    .margin0 {
-        margin-right: 0;
+    .show {
+        opacity: 1;
     }
 
     .navbar-links-mobile-container .Navbar-links {
