@@ -35,7 +35,7 @@ const Footer = () => (
             </div>
           </li>
         </ul>
-        <p id="copyright-text">© 2023 by spaceX</p>
+        <p id="copyright-text">© 2021 by Space Travel</p>
       </div>
     </div>
   );
