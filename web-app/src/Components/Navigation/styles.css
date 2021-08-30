@@ -36,10 +36,20 @@
     flex: 1 0 auto;
 }
 
+.Navbar-link:hover {
+    background-color: #222;
+    cursor: pointer;
+}
+
 .Navbar-link * {
     list-style-type: none;
     text-decoration: none;
     color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
 }
 
 .three-lines {

@@ -4,8 +4,8 @@ import { NavLink } from 'react-router-dom';
 
 const Content = () => (
   <div className='main home'>
-    <h2>SINTA-SE EM CASA</h2>
-    <h1>MESMO ESTANDO LONGE</h1>
+    <h2 class='home-h2'>SINTA-SE EM CASA</h2>
+    <h1 class='home-h1'>MESMO ESTANDO LONGE</h1>
     <div class="form-opacity">
       <form class="form-inline">
         <div>
@@ -21,7 +21,7 @@ const Content = () => (
           <input type="number" id="numberInput2" class="number-input" min="1" max="50" ></input>
         </div>
         <div>
-          <button type="submit"><i ></i> Pesquisar</button>
+          <button class='home-button' type="submit"><i ></i> Pesquisar</button>
         </div>
       </form> 
     </div>

@@ -2,13 +2,13 @@
     background-image: url('../../../images-svg/images/home.jpg');
 }
 
-h2 {
+.home-h2 {
     color: white;
     margin-top: 10%;
     font: 40px DIN Next Light;
 }
 
-h1 {
+.home-h1 {
     color: white;
     font-size: 50px;
     margin-top: -25px;
@@ -60,7 +60,7 @@ h1 {
     margin-left: 5px;
 }
 
-button {
+.home-button {
     float: left;
     padding: 10px;
     background: yellow;
@@ -74,6 +74,6 @@ button {
     margin-left: 25px;
   }
   
-  button:hover {
+  .home-button:hover {
     background: #b1bb20;
   }
