@@ -20,9 +20,12 @@ const Navigation = () => {
     <>
       <nav className='Navbar'>
         <div class='Navbar-logo'>Space Travel</div>
-        <img class='three-lines' src={image} onClick={(prev) => toggleMenu(!prev)}/>
+        <img class='three-lines' src={image} onClick={(prev) => {
+          console.log(isMenuOpen);
+          toggleMenu(!isMenuOpen);
+        }}/>
         <NavLinks />
-        <div className='navbar-links-mobile-container'>
+        <div className={`navbar-links-mobile-container ${isMenuOpen ? 'margin0' : ''}`}>
           <NavLinks />
         </div>
       </nav>
