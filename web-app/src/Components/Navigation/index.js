@@ -25,10 +25,10 @@ const Navigation = () => {
           toggleMenu(!isMenuOpen);
         }}/>
         <NavLinks />
-        <div className={`navbar-links-mobile-container ${isMenuOpen ? 'show' : ''}`}>
-          <NavLinks />
-        </div>
       </nav>
+      <div className={`navbar-links-mobile-container ${isMenuOpen ? 'show' : ''}`}>
+        <NavLinks />
+      </div>
       
     </>
   )
