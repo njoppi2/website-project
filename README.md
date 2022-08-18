@@ -2,8 +2,15 @@
 A Fictional website, designed and implemented by me, [@IgorMayWensing](https://github.com/IgorMayWensing), 
 [@arthurlsb](https://github.com/arthurlsb), [@HuanShan150](https://github.com/HuanShan150) and [@marcos-lessa](https://github.com/marcos-lessa)
 
-# how to run 
-enter the folder: "web-app"
+# Pages
+Home
+![screencapture-localhost-3000-2022-08-18-01_50_49](https://user-images.githubusercontent.com/16853682/185296449-26f7af06-09f5-4acc-acb2-f6b4875544b1.png)
+Sign-in
+![screencapture-localhost-3000-sign-in-2022-08-18-01_52_53](https://user-images.githubusercontent.com/16853682/185296698-496560e9-6afe-43db-85df-d246a34b2423.png)
+Sign-up
+![screencapture-localhost-3000-sign-up-2022-08-18-01_53_40](https://user-images.githubusercontent.com/16853682/185296776-af41370f-39e4-465c-b2c6-7d6ab6b27f44.png)
+
+# How to run 
 run:
     npm install
     npm start
@@ -49,32 +56,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
