@@ -1,30 +1,36 @@
 # websiteProject
-A Fictional website, designed and implemented by me, [@IgorMayWensing](https://github.com/IgorMayWensing), 
-[@arthurlsb](https://github.com/arthurlsb), [@HuanShan150](https://github.com/HuanShan150) and [@marcos-lessa](https://github.com/marcos-lessa)
+A Fictional website, designed and implemented by me, [@IgorMayWensing](https://github.com/IgorMayWensing), [@arthurlsb](https://github.com/arthurlsb), [@HuanShan150](https://github.com/HuanShan150) and [@marcos-lessa](https://github.com/marcos-lessa). It's responsive and mobile friendly, with 3 distinct pages and a dropdown navbar for mobile. Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 # Pages
 
+
 ## Home
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/16853682/185296449-26f7af06-09f5-4acc-acb2-f6b4875544b1.png" height="300vh" />
-  <img src="https://user-images.githubusercontent.com/16853682/185297559-40c8e74c-5f9a-4e62-b8d6-266c77091ce5.png" height="300vh" />
+
+
+desktop             |  mobile
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/16853682/185296449-26f7af06-09f5-4acc-acb2-f6b4875544b1.png)  |  ![](https://user-images.githubusercontent.com/16853682/185297559-40c8e74c-5f9a-4e62-b8d6-266c77091ce5.png)
+
 
 ## Sign-in
-![screencapture-localhost-3000-sign-in-2022-08-18-01_52_53](https://user-images.githubusercontent.com/16853682/185296698-496560e9-6afe-43db-85df-d246a34b2423.png)
+desktop             |  mobile
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/16853682/185296698-496560e9-6afe-43db-85df-d246a34b2423.png)  |  ![](https://user-images.githubusercontent.com/16853682/185299936-8b5eeed9-456a-4dc3-8897-4a7e927f0ff5.png)
 
 ## Sign-up
-![screencapture-localhost-3000-sign-up-2022-08-18-01_53_40](https://user-images.githubusercontent.com/16853682/185296776-af41370f-39e4-465c-b2c6-7d6ab6b27f44.png)
+desktop             |  mobile
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/16853682/185296776-af41370f-39e4-465c-b2c6-7d6ab6b27f44.png)  |  ![](https://user-images.githubusercontent.com/16853682/185300191-a14f3390-9cc1-404e-9ec6-7f6b7ff2e17c.png)
 
 # How to run 
-run:
+
+```bash
     npm install
     npm start
+```
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+# Available Scripts
 
 In the project directory, you can run:
 
