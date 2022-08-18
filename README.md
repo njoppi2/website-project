@@ -6,7 +6,7 @@ A Fictional website, designed and implemented by me, [@IgorMayWensing](https://g
 
 ## Home
 <div>
-    <img style="vertical-align: middle; margin-right:10px" src = "https://user-images.githubusercontent.com/16853682/185296449-26f7af06-09f5-4acc-acb2-f6b4875544b1.png" width ="70%" />
+    <img style="vertical-align: middle !important; margin-right:10px" src = "https://user-images.githubusercontent.com/16853682/185296449-26f7af06-09f5-4acc-acb2-f6b4875544b1.png" width ="70%" />
     <img style="vertical-align: middle;" src = "https://user-images.githubusercontent.com/16853682/185297559-40c8e74c-5f9a-4e62-b8d6-266c77091ce5.png" width ="28%" />
 </div>
 
