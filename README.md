@@ -6,22 +6,38 @@ A Fictional website, designed and implemented by me, [@IgorMayWensing](https://g
 
 
 ## Home
+<div style="display:flex; align-items: center;">
+     <div style="flex:5">
+          <img src="https://user-images.githubusercontent.com/16853682/185296449-26f7af06-09f5-4acc-acb2-f6b4875544b1.png"/>
+     </div>
+     <div style="flex:2;padding-left:10px;">
+          <img src="https://user-images.githubusercontent.com/16853682/185297559-40c8e74c-5f9a-4e62-b8d6-266c77091ce5.png" />
+     </div>
+</div>
 
-
-desktop             |  mobile
-:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/16853682/185296449-26f7af06-09f5-4acc-acb2-f6b4875544b1.png)  |  ![](https://user-images.githubusercontent.com/16853682/185297559-40c8e74c-5f9a-4e62-b8d6-266c77091ce5.png)
-
+---
 
 ## Sign-in
-desktop             |  mobile
-:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/16853682/185296698-496560e9-6afe-43db-85df-d246a34b2423.png)  |  ![](https://user-images.githubusercontent.com/16853682/185299936-8b5eeed9-456a-4dc3-8897-4a7e927f0ff5.png)
+<div style="display:flex; align-items: center;">
+     <div style="flex:5">
+          <img src="https://user-images.githubusercontent.com/16853682/185296698-496560e9-6afe-43db-85df-d246a34b2423.png"/>
+     </div>
+     <div style="flex:2;padding-left:10px;">
+          <img src="https://user-images.githubusercontent.com/16853682/185299936-8b5eeed9-456a-4dc3-8897-4a7e927f0ff5.png" />
+     </div>
+</div>
+
+---
 
 ## Sign-up
-desktop             |  mobile
-:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/16853682/185296776-af41370f-39e4-465c-b2c6-7d6ab6b27f44.png)  |  ![](https://user-images.githubusercontent.com/16853682/185300191-a14f3390-9cc1-404e-9ec6-7f6b7ff2e17c.png)
+<div style="display:flex; align-items: center;">
+     <div style="flex:5">
+          <img src="https://user-images.githubusercontent.com/16853682/185296776-af41370f-39e4-465c-b2c6-7d6ab6b27f44.png"/>
+     </div>
+     <div style="flex:2;padding-left:10px;">
+          <img src="https://user-images.githubusercontent.com/16853682/185300191-a14f3390-9cc1-404e-9ec6-7f6b7ff2e17c.png" />
+     </div>
+</div>
 
 # How to run 
 
