@@ -3,11 +3,16 @@ A Fictional website, designed and implemented by me, [@IgorMayWensing](https://g
 [@arthurlsb](https://github.com/arthurlsb), [@HuanShan150](https://github.com/HuanShan150) and [@marcos-lessa](https://github.com/marcos-lessa)
 
 # Pages
-Home
-![screencapture-localhost-3000-2022-08-18-01_50_49](https://user-images.githubusercontent.com/16853682/185296449-26f7af06-09f5-4acc-acb2-f6b4875544b1.png)
-Sign-in
+
+## Home
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/16853682/185296449-26f7af06-09f5-4acc-acb2-f6b4875544b1.png" height="300vh" />
+  <img src="https://user-images.githubusercontent.com/16853682/185297559-40c8e74c-5f9a-4e62-b8d6-266c77091ce5.png" height="300vh" />
+
+## Sign-in
 ![screencapture-localhost-3000-sign-in-2022-08-18-01_52_53](https://user-images.githubusercontent.com/16853682/185296698-496560e9-6afe-43db-85df-d246a34b2423.png)
-Sign-up
+
+## Sign-up
 ![screencapture-localhost-3000-sign-up-2022-08-18-01_53_40](https://user-images.githubusercontent.com/16853682/185296776-af41370f-39e4-465c-b2c6-7d6ab6b27f44.png)
 
 # How to run 
