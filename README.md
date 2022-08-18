@@ -6,12 +6,7 @@ A Fictional website, designed and implemented by me, [@IgorMayWensing](https://g
 
 ## Home
 
-<style>
-.firstImage {
-    vertical-align: middle;
-    margin-right:10px
-}
-</style>
+
 
 <div>
     <img class="firstImage" src = "https://user-images.githubusercontent.com/16853682/185296449-26f7af06-09f5-4acc-acb2-f6b4875544b1.png" width ="70%" />
