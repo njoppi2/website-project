@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/websiteProject/static/css/main.4a95e1ad.chunk.css",
+    "main.js": "/websiteProject/static/js/main.4510f59c.chunk.js",
+    "main.js.map": "/websiteProject/static/js/main.4510f59c.chunk.js.map",
+    "runtime-main.js": "/websiteProject/static/js/runtime-main.81bd7463.js",
+    "runtime-main.js.map": "/websiteProject/static/js/runtime-main.81bd7463.js.map",
+    "static/js/2.aa5d9971.chunk.js": "/websiteProject/static/js/2.aa5d9971.chunk.js",
+    "static/js/2.aa5d9971.chunk.js.map": "/websiteProject/static/js/2.aa5d9971.chunk.js.map",
+    "static/js/3.1a2c3a5e.chunk.js": "/websiteProject/static/js/3.1a2c3a5e.chunk.js",
+    "static/js/3.1a2c3a5e.chunk.js.map": "/websiteProject/static/js/3.1a2c3a5e.chunk.js.map",
+    "index.html": "/websiteProject/index.html",
+    "static/css/main.4a95e1ad.chunk.css.map": "/websiteProject/static/css/main.4a95e1ad.chunk.css.map",
+    "static/js/2.aa5d9971.chunk.js.LICENSE.txt": "/websiteProject/static/js/2.aa5d9971.chunk.js.LICENSE.txt",
+    "static/media/3-lines.de2a4303.svg": "/websiteProject/static/media/3-lines.de2a4303.svg",
+    "static/media/americanExpress.c0d9cac5.png": "/websiteProject/static/media/americanExpress.c0d9cac5.png",
+    "static/media/styles.css": "/websiteProject/static/media/sign-up.0e6aa032.jpg",
+    "static/media/instagram.edb90ecc.png": "/websiteProject/static/media/instagram.edb90ecc.png",
+    "static/media/mastercard.ab024321.png": "/websiteProject/static/media/mastercard.ab024321.png",
+    "static/media/pix.c3e7be4f.png": "/websiteProject/static/media/pix.c3e7be4f.png",
+    "static/media/rocket.fd621a23.png": "/websiteProject/static/media/rocket.fd621a23.png",
+    "static/media/twitter.8e65601e.png": "/websiteProject/static/media/twitter.8e65601e.png",
+    "static/media/visa.53412106.png": "/websiteProject/static/media/visa.53412106.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81bd7463.js",
+    "static/js/2.aa5d9971.chunk.js",
+    "static/css/main.4a95e1ad.chunk.css",
+    "static/js/main.4510f59c.chunk.js"
+  ]
+}
