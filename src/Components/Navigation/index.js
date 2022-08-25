@@ -7,9 +7,9 @@ import { useState } from 'react';
 
 const NavLinks = () => (
   <ul class='Navbar-links'>
-    <li class='Navbar-link'><NavLink to='/websiteProject/'>Início</NavLink></li>
-    <li class='Navbar-link'><NavLink to='/websiteProject/sign-in'>Login</NavLink></li>
-    <li class='Navbar-link'><NavLink to='/websiteProject/sign-up'>Cadastro</NavLink></li>
+    <li class='Navbar-link'><NavLink to='/website-project/'>Início</NavLink></li>
+    <li class='Navbar-link'><NavLink to='/website-project/sign-in'>Login</NavLink></li>
+    <li class='Navbar-link'><NavLink to='/website-project/sign-up'>Cadastro</NavLink></li>
   </ul>
 );
 

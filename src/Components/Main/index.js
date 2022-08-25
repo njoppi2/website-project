@@ -6,9 +6,9 @@ import './styles.css';
 
 const Main = () => (
   <Switch>
-    <Route exact path='/websiteProject' component={Home}></Route>
-    <Route exact path='/websiteProject/sign-in' component={SignIn}></Route>
-    <Route exact path='/websiteProject/sign-up' component={SignUp}></Route>
+    <Route exact path='/website-project' component={Home}></Route>
+    <Route exact path='/website-project/sign-in' component={SignIn}></Route>
+    <Route exact path='/website-project/sign-up' component={SignUp}></Route>
   </Switch>
 );
 
