@@ -3,9 +3,9 @@ A Fictional website, designed and implemented by me, [@IgorMayWensing](https://g
 
 You can see the website for yourself at https://njoppi2.github.io/websiteProject/, deployed and hosted using [react-gh-pages](https://github.com/gitname/react-gh-pages).
 
-# Pages
+## 📄 Pages
 
-## Home
+### Home
 
 
 
@@ -15,29 +15,29 @@ You can see the website for yourself at https://njoppi2.github.io/websiteProject
 </div>
 
 
-
-## Sign-in
+---
+### Sign-in
 <div>
     <img class="firstImage" src = "https://user-images.githubusercontent.com/16853682/185296698-496560e9-6afe-43db-85df-d246a34b2423.png" width ="70%" />
     <img style="vertical-align: middle;" src = "https://user-images.githubusercontent.com/16853682/185299936-8b5eeed9-456a-4dc3-8897-4a7e927f0ff5.png" width ="28%" />
 </div>
 
 
-
-## Sign-up
+---
+### Sign-up
 <div>
     <img class="firstImage" src = "https://user-images.githubusercontent.com/16853682/185296776-af41370f-39e4-465c-b2c6-7d6ab6b27f44.png" width ="70%" />
     <img style="vertical-align: middle;" src = "https://user-images.githubusercontent.com/16853682/185300191-a14f3390-9cc1-404e-9ec6-7f6b7ff2e17c.png" width ="28%" />
 </div>
 
-# How to run 
+## 👟 How to run 
 
 ```bash
     npm install
     npm start
 ```
 
-# Available Scripts
+## 📝 Available Scripts
 
 In the project directory, you can run:
 
