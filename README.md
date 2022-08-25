@@ -1,4 +1,4 @@
-# websiteProject
+# website-project
 A Fictional website, designed and implemented by me, [@IgorMayWensing](https://github.com/IgorMayWensing), [@arthurlsb](https://github.com/arthurlsb), [@HuanShan150](https://github.com/HuanShan150) and [@marcos-lessa](https://github.com/marcos-lessa). It's responsive and mobile friendly, with 3 distinct pages and a dropdown navbar for mobile. Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 You can see the website for yourself at https://njoppi2.github.io/websiteProject/, deployed and hosted using [react-gh-pages](https://github.com/gitname/react-gh-pages).
