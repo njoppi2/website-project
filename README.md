@@ -16,7 +16,7 @@ You can see the website for yourself at https://njoppi2.github.io/website-projec
 
 
 ---
-### Sign-in
+### Sign-in 
 <div>
     <img class="firstImage" src = "https://user-images.githubusercontent.com/16853682/185296698-496560e9-6afe-43db-85df-d246a34b2423.png" width ="70%" />
     <img style="vertical-align: middle;" src = "https://user-images.githubusercontent.com/16853682/185299936-8b5eeed9-456a-4dc3-8897-4a7e927f0ff5.png" width ="28%" />
