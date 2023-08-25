@@ -1,31 +1,30 @@
 {
   "files": {
     "main.css": "/website-project/static/css/main.5041dba2.chunk.css",
-    "main.js": "/website-project/static/js/main.20e7b9e9.chunk.js",
-    "main.js.map": "/website-project/static/js/main.20e7b9e9.chunk.js.map",
-    "runtime-main.js": "/website-project/static/js/runtime-main.1e35bee6.js",
-    "runtime-main.js.map": "/website-project/static/js/runtime-main.1e35bee6.js.map",
-    "static/js/2.aa5d9971.chunk.js": "/website-project/static/js/2.aa5d9971.chunk.js",
-    "static/js/2.aa5d9971.chunk.js.map": "/website-project/static/js/2.aa5d9971.chunk.js.map",
-    "static/js/3.1a2c3a5e.chunk.js": "/website-project/static/js/3.1a2c3a5e.chunk.js",
-    "static/js/3.1a2c3a5e.chunk.js.map": "/website-project/static/js/3.1a2c3a5e.chunk.js.map",
+    "main.js": "/website-project/static/js/main.2739933b.chunk.js",
+    "main.js.map": "/website-project/static/js/main.2739933b.chunk.js.map",
+    "runtime-main.js": "/website-project/static/js/runtime-main.1932eece.js",
+    "runtime-main.js.map": "/website-project/static/js/runtime-main.1932eece.js.map",
+    "static/js/2.377f9afd.chunk.js": "/website-project/static/js/2.377f9afd.chunk.js",
+    "static/js/2.377f9afd.chunk.js.map": "/website-project/static/js/2.377f9afd.chunk.js.map",
+    "static/js/3.9b639295.chunk.js": "/website-project/static/js/3.9b639295.chunk.js",
+    "static/js/3.9b639295.chunk.js.map": "/website-project/static/js/3.9b639295.chunk.js.map",
     "index.html": "/website-project/index.html",
     "static/css/main.5041dba2.chunk.css.map": "/website-project/static/css/main.5041dba2.chunk.css.map",
-    "static/js/2.aa5d9971.chunk.js.LICENSE.txt": "/website-project/static/js/2.aa5d9971.chunk.js.LICENSE.txt",
+    "static/js/2.377f9afd.chunk.js.LICENSE.txt": "/website-project/static/js/2.377f9afd.chunk.js.LICENSE.txt",
     "static/media/3-lines.de2a4303.svg": "/website-project/static/media/3-lines.de2a4303.svg",
     "static/media/americanExpress.c0d9cac5.png": "/website-project/static/media/americanExpress.c0d9cac5.png",
     "static/media/styles.css": "/website-project/static/media/sign-up.0e6aa032.jpg",
     "static/media/instagram.edb90ecc.png": "/website-project/static/media/instagram.edb90ecc.png",
     "static/media/mastercard.ab024321.png": "/website-project/static/media/mastercard.ab024321.png",
     "static/media/pix.c3e7be4f.png": "/website-project/static/media/pix.c3e7be4f.png",
-    "static/media/rocket.fd621a23.png": "/website-project/static/media/rocket.fd621a23.png",
     "static/media/twitter.8e65601e.png": "/website-project/static/media/twitter.8e65601e.png",
     "static/media/visa.53412106.png": "/website-project/static/media/visa.53412106.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1e35bee6.js",
-    "static/js/2.aa5d9971.chunk.js",
+    "static/js/runtime-main.1932eece.js",
+    "static/js/2.377f9afd.chunk.js",
     "static/css/main.5041dba2.chunk.css",
-    "static/js/main.20e7b9e9.chunk.js"
+    "static/js/main.2739933b.chunk.js"
   ]
 }
