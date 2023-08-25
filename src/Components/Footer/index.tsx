@@ -19,7 +19,7 @@ const Footer: React.FC = () => (
             <ul>
                 <li>
                     <h4>ENDEREÇO</h4>
-                    <p>R. Eng. Agronômico Andrei Cristian Ferreira, s/n - Trindade, Florianópolis - SC, 88040-900</p>
+                    <p>R. Eng. Agronômico Andrei Cristian Ferreira, s/n - Trindade, Florianópolis - SC, 88040-600</p>
                 </li>
                 <li>
                     <h4>CONTATO</h4>
